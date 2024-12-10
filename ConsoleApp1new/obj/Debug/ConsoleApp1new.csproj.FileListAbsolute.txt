@@ -1,0 +1,7 @@
+D:\белько 215\ConsoleApp1new\bin\Debug\ConsoleApp1new.exe.config
+D:\белько 215\ConsoleApp1new\bin\Debug\ConsoleApp1new.exe
+D:\белько 215\ConsoleApp1new\bin\Debug\ConsoleApp1new.pdb
+D:\белько 215\ConsoleApp1new\obj\Debug\ConsoleApp1new.csproj.AssemblyReference.cache
+D:\белько 215\ConsoleApp1new\obj\Debug\ConsoleApp1new.csproj.CoreCompileInputs.cache
+D:\белько 215\ConsoleApp1new\obj\Debug\ConsoleApp1new.exe
+D:\белько 215\ConsoleApp1new\obj\Debug\ConsoleApp1new.pdb
